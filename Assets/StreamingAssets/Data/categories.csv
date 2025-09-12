@@ -1,0 +1,13 @@
+name,level,baseChips,baseMultiplier,chipsPerLevel,multiplierPerLevel
+Ace,1,10,1,10,1
+Two,1,10,1,10,1
+Three,1,10,1,10,1
+Four,1,10,1,10,1
+Five,1,10,1,10,1
+Six,1,10,1,10,1
+Four_Kind,1,35,4,1,1
+Full_House,1,25,3,1,1
+Small_Straight,1,25,2,1,1
+Large_Straight,1,35,3,1,1
+Chance,1,20,1,1,1
+Yahtzee,1,50,5,1,1

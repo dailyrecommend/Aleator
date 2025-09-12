@@ -1,0 +1,2 @@
+id,name,rarity,desc,effectId,params
+default_die,Default,Common,No special effect,dice.none,"{}"

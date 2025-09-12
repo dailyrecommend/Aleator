@@ -1,0 +1,2 @@
+id,name,rarity,desc,effectId,params
+command_tessera,Command,Dev, Any Hand Chips + 10,tessera.command,"{""chips"": 10}"
